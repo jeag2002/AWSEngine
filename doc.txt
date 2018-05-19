@@ -1,0 +1,65 @@
+data set: 
+
+https://stackoverflow.com/questions/14151327/need-a-data-set-for-fraud-detection
+https://gist.github.com/jvilledieu/3ad4cb2e3187ab21416b#_identify_the_fraudulent_transactions
+
+example with python:
+
+==>https://www.kaggle.com/azzion/credit-card-fraud-detection-using-neural-network
+
+deeplearning4j:
+https://deeplearning4j.org/gettingstarted
+https://deeplearning4j.org/spark
+
+==>http://www.baeldung.com/deeplearning4j
+
+http://www.opencodez.com/java/deeplearaning4j.htm
+
+
+AWS lambda + dynamoDB
+http://www.baeldung.com/aws-lambda-dynamodb-java
+
+https://www.javaworld.com/article/3210726/application-development/serverless-computing-with-aws-lambda.html
+https://www.javaworld.com/article/3248595/application-development/serverless-computing-with-aws-lambda-part-2.html
+
+AWS lambda + Spring Boot:
+
+https://keyholesoftware.com/2018/04/26/aws-lambda-with-spring-boot/
+https://github.com/awslabs/aws-serverless-java-container/tree/master/samples/springboot/pet-store
+https://aws.amazon.com/es/blogs/opensource/java-apis-aws-lambda/
+
+https://dev.classmethod.jp/server-side/java/api-gateway-aws-lambda-spring-boot-crud-api/
+
+https://dzone.com/articles/making-spring-boot-application-run-serverless-with
+
+http://www.baeldung.com/java-aws-lambda
+
+https://dzone.com/articles/run-code-with-spring-cloud-function-on-aws-lambda
+
+https://stackoverflow.com/questions/43288216/running-spring-boot-on-amazon-lambda
+
+http://www.kennybastani.com/2017/07/microservices-to-service-blocks-spring-cloud-function-aws-lambda.html
+
+==> https://github.com/laxika/spring-cloud-function-aws-example
+
+AWS Cognito:
+
+https://github.com/aws-samples/aws-cognito-java-desktop-app/tree/master/src/main
+https://github.com/aws-samples/amazon-cognito-developer-authentication-sample
+
+tensorflow AWS:
+
+https://aws.amazon.com/es/blogs/machine-learning/get-started-with-deep-learning-using-the-aws-deep-learning-ami/
+
+Upload-download attached files springboot
+
+https://www.callicoder.com/spring-boot-file-upload-download-rest-api-example/
+
+http://www.mkyong.com/spring-boot/spring-boot-file-upload-example-ajax-and-rest/
+
+https://github.com/bytekast/springboot-aws-lambda/
+
+https://github.com/bytekast/springboot-aws-lambda/
+https://dzone.com/articles/building-serverless-on-aws-lambda
+https://piotrminkowski.wordpress.com/
+https://medium.com/@scottielim/microservices-w-netflix-oss-dynamodb-c3579769dc14

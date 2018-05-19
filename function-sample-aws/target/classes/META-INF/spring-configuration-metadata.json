@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "example.Properties",
+      "name": "app",
+      "type": "example.Properties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "example.Properties",
+      "name": "app.foo",
+      "type": "java.lang.String"
+    }
+  ]
+}
