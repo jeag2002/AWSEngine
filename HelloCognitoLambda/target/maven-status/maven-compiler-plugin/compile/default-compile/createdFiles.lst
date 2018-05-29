@@ -1,0 +1,4 @@
+com\amazonaws\lambda\bean\AuthenticateUserResponse.class
+com\amazonaws\lambda\demo\LambdaFunctionHandler.class
+com\amazonaws\lambda\bean\AuthenticateUserRequest.class
+com\amazonaws\lambda\service\User.class
